@@ -13,6 +13,7 @@ end
 def assign_rooms(names)
   new_arr = []
   names.each_with_index do |name, index|
+    room = index + 1 
     
   
   
