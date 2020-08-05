@@ -12,7 +12,7 @@ end
 
 def assign_rooms(names)
   new_arr = []
-   array = [Edsger, Ada, Charles, Alan, Grace, Linus, Matz]
+  names.each_with_index do |
   
   
 end
