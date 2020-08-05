@@ -11,6 +11,7 @@ def batch_badge_creator(attendees)
 end
 
 def assign_rooms(names)
+  new_arr = []
    array = [Edsger, Ada, Charles, Alan, Grace, Linus, Matz]
   
   
