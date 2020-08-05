@@ -12,7 +12,8 @@ end
 
 def assign_rooms(names)
   new_arr = []
-  names.each_with_index do |
+  names.each_with_index do |name, index|
+    
   
   
 end
